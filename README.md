@@ -83,5 +83,7 @@ python inference.py --config configs/scenedreamer_inference.yaml --output_dir ./
 
 ![sample_traj](https://github.com/user-attachments/assets/8bef1cf5-9c6c-48f3-858d-19b8610705e4)
 
+https://huggingface.co/spaces/FrozenBurning/SceneDreamer
+
 # Obrigado!
 
