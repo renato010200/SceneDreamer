@@ -80,7 +80,7 @@ python inference.py --config configs/scenedreamer_inference.yaml --output_dir ./
 
 # Exemplos 
 
-Aqui está um exemplo de uma imagem em 3D
+
 ![sample_traj](https://github.com/user-attachments/assets/8bef1cf5-9c6c-48f3-858d-19b8610705e4)
 
 # Obrigado!
